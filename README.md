@@ -1,7 +1,11 @@
 # AHP Chain Global Invest - Modelo de Decisión Multicriterio
 
 ## Resumen Ejecutivo
-Este repositorio contiene el script de priorización de cadenas productivas de la plataforma Chain Global Invest desarrollada por **José Alan Párraga Condezo**. Está diseñada para el análisis multicriterio de siete cadenas productivas de Andahuaylas (Perú).
+Este repositorio contiene el script de priorización de cadenas productivas de la plataforma Chain Global Invest:
+
+https://chainglobalinvest.com/
+
+Desarrollada por **José Alan Párraga Condezo**. Está diseñada para el análisis multicriterio de siete cadenas productivas de Andahuaylas (Perú) en su primera versión demo.
 
 ## Metodología y Fundamento Matemático
 El motor decisor se basa en el **Proceso Analítico Jerárquico (AHP)**, incorporando la técnica de **Agregación de Prioridades Individuales (AIP)**. Este marco metodológico garantiza:
