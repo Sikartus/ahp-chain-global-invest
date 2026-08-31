@@ -14,6 +14,11 @@ El motor decisor se basa en el **Proceso Analítico Jerárquico (AHP)**, incorpo
 * **Datos (`*.csv`)**: Repositorio de matrices de comparación por pares y conjuntos de datos de evaluación multicriterio para priorizar cadenas productivas.
 * **Dependencias**: Construido sobre librerías como `pandas` y `numpy`.
 
+## Propiedad intelectual
+* **Autor**: José Alan Párraga Condezo.
+* **Modelado**: Realidad productiva bajo el contexto de la provincia de Andahuaylas en el marco del programa de estado PROCOMPITE de la república del Perú.
+* **License**: CC BY-NC 4.0
+
 ## Ejecución Local
 Para desplegar el modelo en tu entorno local, asegúrate de tener Python instalado y ejecuta los siguientes comandos en tu terminal:
 
